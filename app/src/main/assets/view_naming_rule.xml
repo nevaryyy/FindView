@@ -1,0 +1,69 @@
+<root>
+	<about version="1.0" author="nevaryyy" />
+	<containers>
+		<container name="Activity" />
+		<container name="Fragment" />
+	</containers>
+	<views>
+		<view name="TextView" abbrev="tv" />
+		<view name="Button" abbrev="btn" />
+		<view name="EditText" abbrev="edt" />
+		<view name="MyItemView" abbrev="miv" />
+		<view name="Toolbar" abbrev="toolbar" />
+		<view name="RecyclerView" abbrev="rv" />
+		<view name="SwipeRefreshLayout" abbrev="srl" />
+		<view name="CircleImageView" abbrev="civ" />
+		<view name="RelativeLayout" abbrev="rl" />
+		<view name="LinearLayout" abbrev="ll" />
+		<view name="CardView" abbrev="cv" />
+		<view name="LineCharView" abbrev="lcv" />
+		<view name="ViewPager" abbrev="vp" />
+		<view name="TabLayout" abbrev="tl" />
+		<view name="WaterWaveProgress" abbrev="wwp" />
+		<view name="PasswordInputView" abbrev="piv" />
+		<view name="TimerButton" abbrev="tb" />
+		<view name="ImageView" abbrev="iv" />
+		<view name="SeekBar" abbrev="sb" />
+		<view name="ImageButton" abbrev="ib" />
+		<view name="CheckBox" abbrev="cb" />
+		<view name="IndexBar" abbrev="ib" />
+        <view name="IndexBubble" abbrev="ib" />
+		<view name="KeyboardView" abbrev="kv" />
+		<view name="RadioButton" abbrev="rb" />
+		<view name="ScrollView" abbrev="sv" />
+		<view name="WebView" abbrev="wv" />
+		<view name="FloatingActionButton" abbrev="fab" />
+		<view name="ProgressBar" abbrev="pb" />
+		<view name="CollapsingToolbarLayout" abbrev="ctl" />
+		<view name="WaveSwipeRefreshLayout" abbrev="wsrl" />
+		<view name="ListView" abbrev="lv" />
+		<view name="ViewPagerCompat" abbrev="vpc" />
+		<view name="RadioGroup" abbrev="rg" />
+		<view name="FrameLayout" abbrev="fl" />
+		<view name="PhotoView" abbrev="pv" />
+		<view name="LockIndicator" abbrev="li" />
+		<view name="Switch" abbrev="switch" />
+		<view name="View" abbrev="view" />
+		<view name="CustomLayout" abbrev="cl" />
+		<view name="SwipeRefreshRecyclerView" abbrev="srrv" />
+		<view name="MatrixImageView" abbrev="miv" />
+		<view name="MyScrollView" abbrev="msv" />
+		<view name="NestedRecyclerView" abbrev="nrv" />
+		<view name="SurfaceView" abbrev="sv" />
+		<view name="PhotoViewPager" abbrev="pvp" />
+		<view name="VideoView" abbrev="vv" />
+		<view name="SimpleDraweeView" abbrev="sdv" />
+		<view name="TagGroup" abbrev="tg" />
+		<view name="LabelTextView" abbrev="ltv" />
+		<view name="DotView" abbrev="dv" />
+		<view name="AvatarView" abbrev="av" />
+		<view name="VideoRecordButton" abbrev="vrb" />
+		<view name="UploadProgressView" abbrev="upv" />
+		<view name="MyFlowLayout" abbrev="mfl" />
+		<view name="EditFlowLayout" abbrev="efl" />
+		<view name="MyLabelTextView" abbrev="mltv" />
+		<view name="NestedScrollView" abbrev="nsv" />
+		<view name="VpSwipeRefreshLayout" abbrev="vsrl" />
+		<view name="Fragment" abbrev="fragment" />
+	</views >
+</root>
