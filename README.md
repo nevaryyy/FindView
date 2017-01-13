@@ -10,20 +10,20 @@ Likewise, XxxXxxxActivity -> activity_xxx_xxxx.xml, XxxFragment -> fragment_xxx.
 
 ### view
 View ids in layout must comply with the ViewNamingRule equally.
-5
+
 #### abbrev
 You need to create a xml file(view_naming_rule.xml) in directory assets.
 Some content of this file:
 ```xml
-  <containers>
-		<container name="Activity" />
-		<container name="Fragment" />
-	</containers>
-	<views>
-1		<view name="TextView" abbrev="tv" />
-		<view name="Button" abbrev="btn" />
-		<view name="EditText" abbrev="edt" />
-  </views>
+<containers>
+	<container name="Activity" />
+	<container name="Fragment" />
+</containers>
+<views>
+	<view name="TextView" abbrev="tv" />
+	<view name="Button" abbrev="btn" />
+	<view name="EditText" abbrev="edt" />
+ </views>
 ```
 
 Well, view id in layout must be named in format abbrev_pagename_logicname.
@@ -78,6 +78,9 @@ public class MyApplication extends Application{
     }
 }
 ```
+
+## LICENSE
+MIT LICENSE.
 
 <br/>
 <br/>
