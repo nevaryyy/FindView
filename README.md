@@ -10,7 +10,7 @@ Likewise, XxxXxxxActivity -> activity_xxx_xxxx.xml, XxxFragment -> fragment_xxx.
 
 ### view
 View ids in layout must comply with the ViewNamingRule equally.
-
+5
 #### abbrev
 You need to create a xml file(view_naming_rule.xml) in directory assets.
 Some content of this file:
@@ -20,7 +20,7 @@ Some content of this file:
 		<container name="Fragment" />
 	</containers>
 	<views>
-		<view name="TextView" abbrev="tv" />
+1		<view name="TextView" abbrev="tv" />
 		<view name="Button" abbrev="btn" />
 		<view name="EditText" abbrev="edt" />
   </views>
@@ -82,4 +82,4 @@ public class MyApplication extends Application{
 <br/>
 <br/>
 <br/>
-Email: naveryyy@vip.com
+Email: naveryyy@vip.163.com
